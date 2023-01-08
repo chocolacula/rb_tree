@@ -1,6 +1,7 @@
 # Red Black Tree in Rust
 
 [![Tests](https://github.com/chocolacula/rb_tree/actions/workflows/rust.yml/badge.svg)](https://github.com/chocolacula/rb_tree/actions/workflows/rust.yml)
+
 It is an educational project, made with one purpose - teach students algorithms and Rust🦀.  
 
 It covers basic Rust topics like borrowing and includes:
