@@ -20,7 +20,7 @@ A few notes about implementation:
 - `RbTree<T>` has only `key` which is the `value` in the same time
 - implements `print()` for rendering tree structure in console
 - implements `is_valid()` for checking rules violation
-- nevertheless has few optimization:
+- nevertheless has a few optimizations:
   - build path during traversal instead of store pointer to parent
   - store children in small array to reduce branching
 
