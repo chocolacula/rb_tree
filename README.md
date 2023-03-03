@@ -26,5 +26,4 @@ A few notes about implementation:
 
 Moreover it contains good comments which covers rotation and colorization.
 
-If you're not even student but have troubles with understanding,  
-feel free to contact me for explanation.
+If you're not even a student but have problems understanding, feel free to contact me for explanation.
